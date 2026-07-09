@@ -2,7 +2,8 @@
 
 ## Dashboard Preview
 
-![Uploading image.png…]()
+<img width="1500" height="1014" alt="image" src="https://github.com/user-attachments/assets/8bad6190-8e0c-4ca3-ba85-914d41a030c5" />
+
 
 # 📌 Project Summary
 
